@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T02:58:18.387Z'
+datePublished: '2016-08-08T03:01:17.621Z'
 sourcePath: _posts/2016-08-08-charlotte-wrinch.md
 isBasedOnUrl: 'https://soundcloud.com/charlottewrinch'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T02:58:17.877Z'
+dateModified: '2016-08-08T03:01:17.307Z'
 title: ''
 app_links:
   - type: ios
@@ -58,3 +58,5 @@ _type: AudioObject
 ![Kiss The Ground album](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15feab95-bd0b-4586-8ab4-8da954766571.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F170646%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fcharlottewrinch&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000131714499-jfwoqt-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99bab3af-7ce8-4500-a388-e9c72d972b5f.jpg)
