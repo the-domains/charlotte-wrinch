@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Singer-Songwriter]]></title>
+        <description><![CDATA[Singer-Songwriter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 02:52:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charlotte Wrinch]]></title>
+            <description><![CDATA[<article><h1>Charlotte Wrinch</h1><p>charlottewrinch@gmail.com Charlotte Wrinch is a singer-songwriter living on the Sunshine Coast in British Columbia, and is an active member of the Canadian music industry. A FACTOR Demo Award winner, she plays acoustic guitar, piano, and a collection of recorders and penny whistles. She performs regularly at many of the festivals and live music venues on the BC coast.</p></article>]]></description>
+            <link>https://soundcloud.com/charlottewrinch</link>
+            <guid isPermaLink="false">3e3a1c8f-5965-4a05-9034-7ac1b7bd8e34</guid>
+            <pubDate>Mon, 08 Aug 2016 02:52:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
