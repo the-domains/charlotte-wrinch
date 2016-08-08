@@ -1,16 +1,16 @@
-typography_spectrum: 0.7766863231081516
+typography_spectrum: 0.7868600920774043
 color:
-  brandStrength: 0.676793806720525
-  lightness: 0.7072651274502277
-  saturation: 0.08637357619591057
-  rhythmicContrast: 0.3509637387469411
+  brandStrength: 0.009390244726091623
+  lightness: 0.41280978731811047
+  saturation: 0.7148354856763035
+  rhythmicContrast: 0.47126315790228546
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.996274714358151
+    - '#63381E'
+    - '#8E4710'
+    - '#76513B'
+    - '#906213'
+    - '#2A2411'
+layout_spectrum: 0.3792462626006454
 author:
   name: Charlotte Wrinch
   email: charlottewrinch@gmail.com
